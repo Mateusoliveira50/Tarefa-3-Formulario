@@ -12,7 +12,10 @@
         div{
         font-family: Arial, Helvetica, sans-serif;
         text-align: center;
-        color: white;
+        color: white;position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
         }
  </style>
 </head>
