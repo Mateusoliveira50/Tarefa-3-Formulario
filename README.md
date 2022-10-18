@@ -1,5 +1,5 @@
 # Formulário-Login
-Esse projeto faz parte de uma atividade acadêmica complementar, com o intuito de colaborar com a aprendizagem no no semestre corrente.
+Esse projeto faz parte de uma atividade acadêmica complementar, com o intuito de colaborar com a aprendizagem no semestre corrente (3° Semestre).
 
 Orientação para vizualização e correção da tarefa:
 
