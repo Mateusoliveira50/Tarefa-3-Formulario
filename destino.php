@@ -9,9 +9,9 @@
 </head>
 <body class="corpo">
     <div class="box">
-    <?php
-    echo "<h2>Bem Vindo!</h2>"
-    ?>
+    <?php if (isset($_POST['usuario'])) : ?>
+        <h2> Bem Vindo, <?= $_POST['usuario'] ?></h2>
+        <?php endif; ?>
     </div>
 </body>
 </html>
