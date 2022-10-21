@@ -1,0 +1,51 @@
+body{
+    background: rgb(20, 20, 223);
+  }
+  div {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 45px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.9);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 250px;
+    text-align: center;
+    color: white;
+  }
+  input{
+    padding: 15px;
+  }
+  button {
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 3px;
+    background-color: rgb(22, 236, 22);
+    font-size: 15px;
+    border: none;
+    height: 30px;
+    width: 50%;
+  }
+  button:hover {
+    background-color: rgb(3, 134, 3)
+  }
+  #bt {
+    background-color: white;
+    color: red;
+    border: solid rgb(175, 6, 6);
+  }
+  .corpo {
+    background-color: purple;
+  }
+    .box {
+    font-family: "roboto" sans-serif;
+    width: 30%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 15%;
+    transform: translate(-50%, -50%);
+    font-size:45px;
+    }
