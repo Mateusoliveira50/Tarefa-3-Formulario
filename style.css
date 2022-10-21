@@ -26,6 +26,7 @@ body{
     border: none;
     height: 40px;
     width: 60%;
+    color: white;
   }
   button:hover {
     background-color: rgb(28, 92, 9
