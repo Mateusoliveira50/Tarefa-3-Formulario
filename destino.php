@@ -10,7 +10,7 @@
 <body class="corpo">
     <div class="box">
     <?php
-    echo "<h1>Bem Vindo!</h1>"
+    echo "<h2>Bem Vindo!</h2>"
     ?>
     </div>
 </body>
