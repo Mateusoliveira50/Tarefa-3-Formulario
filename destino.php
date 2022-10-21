@@ -15,7 +15,7 @@
         color: white;
         position: absolute;
         top: 50%;
-        left: 50%;
+        left: 15%;
         transform: translate(-50%, -50%);
         font-size: 45px;
         }
