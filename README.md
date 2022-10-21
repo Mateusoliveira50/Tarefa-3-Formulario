@@ -19,6 +19,6 @@ ORIENTAÇÃO PARA VISUALIZAÇÃO E CORREÇÃO DA TAREFA:
 
 Esse projeto faz parte de uma atividade acadêmica complementar, com o intuito de colaborar com a aprendizagem no semestre corrente (3° Semestre).
 
--- Para rodar o arquivo .php no navegador utilize um servidor local, por exemplo, o Xampp.
+-- Para executar o arquivo .php no navegador utilize um servidor local, por exemplo, o Xampp.
 
 Por: Mateus Oliveira 
